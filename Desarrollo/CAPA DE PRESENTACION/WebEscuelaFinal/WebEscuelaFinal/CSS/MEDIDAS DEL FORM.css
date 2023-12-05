@@ -1,0 +1,75 @@
+﻿/*MEDIDASDE ALTURAS del FORM*/
+form.l10 {
+    height: 17rem;
+}
+form.l12 {
+    height: 19rem;
+}
+form.l13 {
+    height: 20rem;
+}
+form.l14 {
+    height: 21rem;
+}
+form.l15 {
+    height: 22rem;
+}
+form.l16 {
+    height: 23rem;
+}
+
+form.l18 {
+    height: 25rem;
+}
+/*MEDIDAS DE ALTURA del CFORM*/
+form.l8 #Cform {
+    height: 8rem;
+}
+form.l10 #Cform {
+    height: 10rem;
+}
+form.l12 #Cform {
+    height: 12rem;
+}
+form.l13 #Cform {
+    height: 13rem;
+}
+form.l14 #Cform {
+    height: 14rem;
+}
+form.l15 #Cform {
+    height: 15rem;
+}
+form.l16 #Cform {
+    height: 16rem;
+}
+
+form.l18 #Cform {
+    height: 18rem;
+}
+
+form.l24 #Cform {
+    height: 24rem;
+}
+/*/CONTROLES DE ALTURA/*/
+.l18 {
+    height: 18rem;
+}
+
+/*CONTROLES TOP DEL FORM Y DE OTROS CONTROLES*/
+.top6 {
+    margin-top: 6rem;
+}
+
+/*CONTROLES DE ANCHO DEL FORM */
+form.w60 {
+    width: 60%;
+}
+form.w40 {
+    width: 60%;
+}
+form.w80 {
+    width: 80%;
+}
+
+

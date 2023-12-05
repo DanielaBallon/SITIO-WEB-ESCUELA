@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F6455C15-8529-47DF-8DBB-118D756F732C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BASICA</RootNamespace>
+    <AssemblyName>BASICA</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CLASES\BasicTable.cs" />
+    <Compile Include="CLASES\Dispersor.cs" />
+    <Compile Include="CLASES\Connection.cs" />
+    <Compile Include="INTERFACES\IConnections.cs" />
+    <Compile Include="INTERFACES\IABMFTable.cs" />
+    <Compile Include="INTERFACES\IABMF.cs" />
+    <Compile Include="INTERFACES\IABMFIMG.cs" />
+    <Compile Include="INTERFACES\IBasicConnection.cs" />
+    <Compile Include="INTERFACES\IGenericSingleton.cs" />
+    <Compile Include="INTERFACES\IHashing.cs" />
+    <Compile Include="INTERFACES\IDispersor.cs" />
+    <Compile Include="INTERFACES\IID.cs" />
+    <Compile Include="INTERFACES\IImage.cs" />
+    <Compile Include="INTERFACES\IJson.cs" />
+    <Compile Include="INTERFACES\IMakeImg.cs" />
+    <Compile Include="INTERFACES\IParameters.cs" />
+    <Compile Include="INTERFACES\ISingleton.cs" />
+    <Compile Include="INTERFACES\IListToTable.cs" />
+    <Compile Include="CLASES\Image.cs" />
+    <Compile Include="CLASES\Json.cs" />
+    <Compile Include="CLASES\ListToTable.cs" />
+    <Compile Include="CLASES\ParentSingleton.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="CLASES\Sha.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DIAGRAMS\ConectionDiagram.cd" />
+    <None Include="DIAGRAMS\I,mageDiagram.cd" />
+    <None Include="DIAGRAMS\SingleDiagram.cd" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

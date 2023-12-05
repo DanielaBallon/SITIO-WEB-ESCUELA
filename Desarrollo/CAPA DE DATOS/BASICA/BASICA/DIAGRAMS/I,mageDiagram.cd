@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BASICA.BasicTable" Collapsed="true">
+    <Position X="10" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAoIAAAAAAgAIAAAAAAABACAAIAEAAAAAAAAAAAAM=</HashCode>
+      <FileName>CLASES\BasicTable.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BASICA.Json" Collapsed="true">
+    <Position X="4.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAACAAAgAAA=</HashCode>
+      <FileName>CLASES\Json.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BASICA.Image" Collapsed="true">
+    <Position X="0.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAABAAAAAAgAIAAABAAMACCCIAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>CLASES\Image.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BASICA.Sha" Collapsed="true">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CLASES\Sha.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="BASICA.IID" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>INTERFACES\IID.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BASICA.IABMF" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAIAAAAAAAAAAAAAAAAAAACAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>INTERFACES\IABMF.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BASICA.IABMFTable" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAAAAAAAIAAAAAAABAAAAAAEAAAAAAAAAAAAM=</HashCode>
+      <FileName>INTERFACES\IABMFTable.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="IIM" />
+    </ShowAsAssociation>
+  </Interface>
+  <Interface Name="BASICA.IHashing" Collapsed="true">
+    <Position X="0.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>INTERFACES\IHashing.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BASICA.IIMage" Collapsed="true">
+    <Position X="0.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAACCAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>INTERFACES\IImage.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BASICA.IJson" Collapsed="true">
+    <Position X="4.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>INTERFACES\IJson.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BASICA.IABMFIMG" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAABAAAAAAAAAAAAAAAIACAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>INTERFACES\IABMFIMG.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BASICA.IMakeImg" Collapsed="true">
+    <Position X="2.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAIAAABAAMACAAIAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>INTERFACES\IMakeImg.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

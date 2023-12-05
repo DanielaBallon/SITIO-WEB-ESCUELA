@@ -1,0 +1,18 @@
+D:\PROGRAMACION2-2021\BASICA\DussinesTable\bin\Debug\BussinesTable.dll
+D:\PROGRAMACION2-2021\BASICA\DussinesTable\bin\Debug\BussinesTable.pdb
+D:\PROGRAMACION2-2021\BASICA\DussinesTable\bin\Debug\BASICA.dll
+D:\PROGRAMACION2-2021\BASICA\DussinesTable\bin\Debug\BASICA.pdb
+D:\PROGRAMACION2-2021\BASICA\DussinesTable\obj\Debug\BussinesTable.csproj.CoreCompileInputs.cache
+D:\PROGRAMACION2-2021\BASICA\DussinesTable\obj\Debug\BussinesTable.csproj.CopyComplete
+D:\PROGRAMACION2-2021\BASICA\DussinesTable\obj\Debug\BussinesTable.dll
+D:\PROGRAMACION2-2021\BASICA\DussinesTable\obj\Debug\BussinesTable.pdb
+D:\PROGRAMACION2-2021\BASICA\DussinesTable\obj\Debug\BussinesTable.csprojAssemblyReference.cache
+D:\TECAS 2022\ALGORITMOS II\DESARROLLO\BASICA\DussinesTable\bin\Debug\BussinesTable.dll
+D:\TECAS 2022\ALGORITMOS II\DESARROLLO\BASICA\DussinesTable\bin\Debug\BussinesTable.pdb
+D:\TECAS 2022\ALGORITMOS II\DESARROLLO\BASICA\DussinesTable\bin\Debug\BASICA.dll
+D:\TECAS 2022\ALGORITMOS II\DESARROLLO\BASICA\DussinesTable\bin\Debug\BASICA.pdb
+D:\TECAS 2022\ALGORITMOS II\DESARROLLO\BASICA\DussinesTable\obj\Debug\BussinesTable.csprojAssemblyReference.cache
+D:\TECAS 2022\ALGORITMOS II\DESARROLLO\BASICA\DussinesTable\obj\Debug\BussinesTable.csproj.CoreCompileInputs.cache
+D:\TECAS 2022\ALGORITMOS II\DESARROLLO\BASICA\DussinesTable\obj\Debug\BussinesTable.csproj.CopyComplete
+D:\TECAS 2022\ALGORITMOS II\DESARROLLO\BASICA\DussinesTable\obj\Debug\BussinesTable.dll
+D:\TECAS 2022\ALGORITMOS II\DESARROLLO\BASICA\DussinesTable\obj\Debug\BussinesTable.pdb

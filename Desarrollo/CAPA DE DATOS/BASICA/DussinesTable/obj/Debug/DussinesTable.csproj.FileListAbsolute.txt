@@ -1,0 +1,9 @@
+D:\PROGRAMACION2-2021\BASICA\DussinesTable\obj\Debug\DussinesTable.csprojAssemblyReference.cache
+D:\PROGRAMACION2-2021\BASICA\DussinesTable\obj\Debug\DussinesTable.csproj.CoreCompileInputs.cache
+D:\PROGRAMACION2-2021\BASICA\DussinesTable\bin\Debug\DussinesTable.dll
+D:\PROGRAMACION2-2021\BASICA\DussinesTable\bin\Debug\DussinesTable.pdb
+D:\PROGRAMACION2-2021\BASICA\DussinesTable\bin\Debug\BASICA.dll
+D:\PROGRAMACION2-2021\BASICA\DussinesTable\bin\Debug\BASICA.pdb
+D:\PROGRAMACION2-2021\BASICA\DussinesTable\obj\Debug\DussinesTable.csproj.CopyComplete
+D:\PROGRAMACION2-2021\BASICA\DussinesTable\obj\Debug\DussinesTable.dll
+D:\PROGRAMACION2-2021\BASICA\DussinesTable\obj\Debug\DussinesTable.pdb

@@ -1,0 +1,10 @@
+D:\PROGRAMACION2-2021\BASICA\ConsolaSingleton\bin\Debug\ConsolaSingleton.exe.config
+D:\PROGRAMACION2-2021\BASICA\ConsolaSingleton\bin\Debug\ConsolaSingleton.exe
+D:\PROGRAMACION2-2021\BASICA\ConsolaSingleton\bin\Debug\ConsolaSingleton.pdb
+D:\PROGRAMACION2-2021\BASICA\ConsolaSingleton\bin\Debug\BASICA.dll
+D:\PROGRAMACION2-2021\BASICA\ConsolaSingleton\bin\Debug\BASICA.pdb
+D:\PROGRAMACION2-2021\BASICA\ConsolaSingleton\obj\Debug\ConsolaSingleton.csprojAssemblyReference.cache
+D:\PROGRAMACION2-2021\BASICA\ConsolaSingleton\obj\Debug\ConsolaSingleton.csproj.CoreCompileInputs.cache
+D:\PROGRAMACION2-2021\BASICA\ConsolaSingleton\obj\Debug\ConsolaSingleton.csproj.CopyComplete
+D:\PROGRAMACION2-2021\BASICA\ConsolaSingleton\obj\Debug\ConsolaSingleton.exe
+D:\PROGRAMACION2-2021\BASICA\ConsolaSingleton\obj\Debug\ConsolaSingleton.pdb

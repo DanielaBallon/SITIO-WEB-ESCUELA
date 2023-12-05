@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BussinesTable.TableAlumnos" Collapsed="true">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACMAIBAAAAAAAAIAAAAAkABCCAAIAEAAAAAAAQCAAAI=</HashCode>
+      <FileName>TableAlumnos.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BussinesTable.Dispersor" Collapsed="true">
+    <Position X="5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dispersor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="BussinesTable.ITable" Collapsed="true">
+    <Position X="3.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACEAABAAAAAAAAAAAAAAgAACAAAAAAAAAAAAAQCAAAA=</HashCode>
+      <FileName>ITable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
