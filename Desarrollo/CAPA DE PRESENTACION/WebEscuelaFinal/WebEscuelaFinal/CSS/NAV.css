@@ -1,12 +1,8 @@
-
-
-/* Estilos previos al botón desplegable (mantenlos como están) */
 .nav {
     grid-area: nav;
     background-color: #043b36;
-
     display: flex;
-    align-items: center;
+ 
     justify-content: space-between;
     cursor: pointer;
     font-weight: bold;
@@ -39,18 +35,18 @@ nav ul {
                 color: gray;
             }
 
-/* Estilos para el contenedor del botón desplegable (el elemento <li> con clase "dropdown") */
+/* Estilos para el contenedor del botón desplegable  */
 
-/* Estilos para el botón desplegable (el elemento <a> con clase "dropdownbtn") */
+/* Estilos para el botón desplegable  */
 .dropdownbtn {
     color: white;
     text-decoration: none;
     padding: 10px 20px;
 }
 
-/* Estilos para el contenido del botón desplegable (el elemento <div> con clase "dropdown-content") */
+/* Estilos para el contenido del botón desplegable  */
 .dropdown-content {
-    display: none; /* Ocultar el contenido inicialmente */
+    display: none; 
     flex-direction: column;
     position: absolute;
     background-color: #90ee90;
@@ -60,23 +56,23 @@ nav ul {
     margin-bottom: 10px;
 }
 
-    /* Estilos para cada opción del botón desplegable (el elemento <a> dentro de <div> con clase "dropdown-content") */
     .dropdown-content a {
         color: #2e8b57;
         padding: 10px;
         text-decoration: none;
     }
 
-/* Estilos para el botón desplegable cuando el cursor está sobre él */
+
 .dropdown:hover .dropdown-content {
     display: flex;
 }
 
-#Login {
-    background-color: #020;
-    margin-left: auto;
+
+.LOGIN {
+    background-color: #2e8b57;
+    align-content: center;
+    margin: 3px;
+    border-radius: 5px;
+    color: white;
 }
-.LOGIN1 {
-    
-    margin-left: 750px;
-}
+

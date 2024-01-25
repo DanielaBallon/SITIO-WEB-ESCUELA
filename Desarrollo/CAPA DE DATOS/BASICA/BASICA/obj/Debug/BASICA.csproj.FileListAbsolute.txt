@@ -34,3 +34,15 @@ C:\ALGORITMO 2022 TUPAC\WebEscuela22\Desarrollo\CAPA DE DATOS\BASICA\BASICA\obj\
 C:\ALGORITMO 2022 TUPAC\WebEscuela22\Desarrollo\CAPA DE DATOS\BASICA\BASICA\obj\Debug\BASICA.dll
 C:\ALGORITMO 2022 TUPAC\WebEscuela22\Desarrollo\CAPA DE DATOS\BASICA\BASICA\obj\Debug\BASICA.pdb
 C:\ALGORITMO 2022 TUPAC\WebEscuela22\Desarrollo\CAPA DE DATOS\BASICA\BASICA\obj\Debug\BASICA.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\WebEscuela22\Desarrollo\CAPA DE DATOS\BASICA\BASICA\bin\Debug\BASICA.dll
+C:\Users\Usuario\Desktop\WebEscuela22\Desarrollo\CAPA DE DATOS\BASICA\BASICA\bin\Debug\BASICA.pdb
+C:\Users\Usuario\Desktop\WebEscuela22\Desarrollo\CAPA DE DATOS\BASICA\BASICA\obj\Debug\BASICA.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\WebEscuela22\Desarrollo\CAPA DE DATOS\BASICA\BASICA\obj\Debug\BASICA.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\WebEscuela22\Desarrollo\CAPA DE DATOS\BASICA\BASICA\obj\Debug\BASICA.dll
+C:\Users\Usuario\Desktop\WebEscuela22\Desarrollo\CAPA DE DATOS\BASICA\BASICA\obj\Debug\BASICA.pdb
+C:\Users\Usuario\Desktop\PROYECTOS\WebEscuela22\Desarrollo\CAPA DE DATOS\BASICA\BASICA\bin\Debug\BASICA.dll
+C:\Users\Usuario\Desktop\PROYECTOS\WebEscuela22\Desarrollo\CAPA DE DATOS\BASICA\BASICA\bin\Debug\BASICA.pdb
+C:\Users\Usuario\Desktop\PROYECTOS\WebEscuela22\Desarrollo\CAPA DE DATOS\BASICA\BASICA\obj\Debug\BASICA.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\PROYECTOS\WebEscuela22\Desarrollo\CAPA DE DATOS\BASICA\BASICA\obj\Debug\BASICA.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PROYECTOS\WebEscuela22\Desarrollo\CAPA DE DATOS\BASICA\BASICA\obj\Debug\BASICA.dll
+C:\Users\Usuario\Desktop\PROYECTOS\WebEscuela22\Desarrollo\CAPA DE DATOS\BASICA\BASICA\obj\Debug\BASICA.pdb

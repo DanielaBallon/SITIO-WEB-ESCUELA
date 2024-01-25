@@ -217,20 +217,33 @@ const $$DomControls = function () {
 const $$DomNav = function () {
     this.clear = function () {
         ul.innerHTML = "";
+        var linksToRemove = document.querySelectorAll('.LOGIN');
+        linksToRemove.forEach(function (link) {
+            link.remove();
+        });
     };
+
     this.makeButton = function (innertext, eventclick) {
         let li = $dc.li(ul);
         let a = $dc.a(li, innertext.toUpperCase());
         a.onclick = eventclick;
         return li;
     };
-    this.makeButtonLogin = function (text, eventclick) {
+ /*   this.makeButtonLogin = function (text, eventclick) {
         let li = $dc.li(ul);
-        li.className = "LOGIN1";
+        li.className = "LOGIN";
         let a = $dc.a(li, text.toUpperCase());
         a.id = "Login";
         a.onclick = eventclick;
-    };
+    };*/
+
+
+    this.makeButtonLogin = function (text, eventclick) {
+        let a = $dc.a(Nav, text.toUpperCase())
+        a.className = "LOGIN";
+        a.id = "Login";
+        a.onclick = eventclick;
+    }
     this.makeDropdownButton = function (text, arraytext, arrayeventsclik) {
         let li = $dc.li(ul);
         li.className = "dropdown";

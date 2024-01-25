@@ -16,3 +16,21 @@ C:\ALGORITMO 2022 TUPAC\WebEscuela22\Desarrollo\CAPA DE NEGOCIO\BUSSINESSCHOOL\o
 C:\ALGORITMO 2022 TUPAC\WebEscuela22\Desarrollo\CAPA DE NEGOCIO\BUSSINESSCHOOL\obj\Debug\BUSSINESSCHOOL.csproj.CopyComplete
 C:\ALGORITMO 2022 TUPAC\WebEscuela22\Desarrollo\CAPA DE NEGOCIO\BUSSINESSCHOOL\obj\Debug\BUSSINESSCHOOL.dll
 C:\ALGORITMO 2022 TUPAC\WebEscuela22\Desarrollo\CAPA DE NEGOCIO\BUSSINESSCHOOL\obj\Debug\BUSSINESSCHOOL.pdb
+C:\Users\Usuario\Desktop\WebEscuela22\Desarrollo\CAPA DE NEGOCIO\BUSSINESSCHOOL\bin\Debug\BUSSINESSCHOOL.dll
+C:\Users\Usuario\Desktop\WebEscuela22\Desarrollo\CAPA DE NEGOCIO\BUSSINESSCHOOL\bin\Debug\BUSSINESSCHOOL.pdb
+C:\Users\Usuario\Desktop\WebEscuela22\Desarrollo\CAPA DE NEGOCIO\BUSSINESSCHOOL\bin\Debug\BASICA.dll
+C:\Users\Usuario\Desktop\WebEscuela22\Desarrollo\CAPA DE NEGOCIO\BUSSINESSCHOOL\bin\Debug\BASICA.pdb
+C:\Users\Usuario\Desktop\WebEscuela22\Desarrollo\CAPA DE NEGOCIO\BUSSINESSCHOOL\obj\Debug\BUSSINESSCHOOL.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\WebEscuela22\Desarrollo\CAPA DE NEGOCIO\BUSSINESSCHOOL\obj\Debug\BUSSINESSCHOOL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\WebEscuela22\Desarrollo\CAPA DE NEGOCIO\BUSSINESSCHOOL\obj\Debug\BUSSINESSCHOOL.csproj.CopyComplete
+C:\Users\Usuario\Desktop\WebEscuela22\Desarrollo\CAPA DE NEGOCIO\BUSSINESSCHOOL\obj\Debug\BUSSINESSCHOOL.dll
+C:\Users\Usuario\Desktop\WebEscuela22\Desarrollo\CAPA DE NEGOCIO\BUSSINESSCHOOL\obj\Debug\BUSSINESSCHOOL.pdb
+C:\Users\Usuario\Desktop\PROYECTOS\WebEscuela22\Desarrollo\CAPA DE NEGOCIO\BUSSINESSCHOOL\bin\Debug\BUSSINESSCHOOL.dll
+C:\Users\Usuario\Desktop\PROYECTOS\WebEscuela22\Desarrollo\CAPA DE NEGOCIO\BUSSINESSCHOOL\bin\Debug\BUSSINESSCHOOL.pdb
+C:\Users\Usuario\Desktop\PROYECTOS\WebEscuela22\Desarrollo\CAPA DE NEGOCIO\BUSSINESSCHOOL\bin\Debug\BASICA.dll
+C:\Users\Usuario\Desktop\PROYECTOS\WebEscuela22\Desarrollo\CAPA DE NEGOCIO\BUSSINESSCHOOL\bin\Debug\BASICA.pdb
+C:\Users\Usuario\Desktop\PROYECTOS\WebEscuela22\Desarrollo\CAPA DE NEGOCIO\BUSSINESSCHOOL\obj\Debug\BUSSINESSCHOOL.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\PROYECTOS\WebEscuela22\Desarrollo\CAPA DE NEGOCIO\BUSSINESSCHOOL\obj\Debug\BUSSINESSCHOOL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PROYECTOS\WebEscuela22\Desarrollo\CAPA DE NEGOCIO\BUSSINESSCHOOL\obj\Debug\BUSSINESSCHOOL.csproj.CopyComplete
+C:\Users\Usuario\Desktop\PROYECTOS\WebEscuela22\Desarrollo\CAPA DE NEGOCIO\BUSSINESSCHOOL\obj\Debug\BUSSINESSCHOOL.dll
+C:\Users\Usuario\Desktop\PROYECTOS\WebEscuela22\Desarrollo\CAPA DE NEGOCIO\BUSSINESSCHOOL\obj\Debug\BUSSINESSCHOOL.pdb
